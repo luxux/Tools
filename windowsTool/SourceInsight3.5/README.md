@@ -13,9 +13,9 @@
 #### SI3_5多行注释
 Source Insight  多行注释
 * 添加全局宏定义，打开 Source Insight，【项目】---【打开项目】，打开 base 项目
-![](C:/Users/koosuf/Documents/Pointofix/Screenshots/20170320-153132-001.jpg)
+![](./img/20170320-153132-001.jpg)
 选择 Base，点击确定。
-![](C:/Users/koosuf/Documents/Pointofix/Screenshots/20170320-153457-002.jpg)
+![](./img/20170320-153457-002.jpg)
 在打开的文件最后添加如下宏定义(详细请参考文件“宏定义.txt”
 ```c++
 macro CodeComments(){//多行注释
@@ -52,7 +52,7 @@ macro CodeComments(){//多行注释
 
 * 添加进菜单
 在选项(Options)->菜单分配(Menu  Assignments)中你就可以看到这个宏了,看不到可以重启 si，同步一下试试。名字叫 CodeComments，然后选择菜单合适的菜单下插入即可
-![](C:/Users/koosuf/Documents/Pointofix/Screenshots/20170320-153846-003.jpg)
+![](./img/20170320-153846-003.jpg)
 
 * 添加快捷键
 然后在"Options"->"Menu  Assignments"窗口点击右下角倒数第二个按钮
